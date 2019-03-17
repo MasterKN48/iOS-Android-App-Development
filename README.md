@@ -13,9 +13,9 @@ This is repo devoted for learning Native App Development using ReactNative
 # NEWSAPI.org
 ### 1
 <img src="/src/fossl1.jpg" alt="drawing" width="250"/>
-### 2
+## 2
 <img src="/src/fossl2.jpg" alt="drawing" width="250"/>
-# 3
+## 3
 <img src="/src/fossl3.jpg" alt="drawing" width="250"/>
-# 4
+## 4
 <img src="/src/fossl4.jpg" alt="drawing" width="250"/>
