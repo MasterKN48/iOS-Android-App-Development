@@ -11,7 +11,7 @@ This is repo devoted for learning Native App Development using ReactNative
 ## react-native-navigation 3
 ## react-native-splash-screen3
 # NEWSAPI.org
-![Alt text](/src/fossl1.jpg?raw=true "Optional Title")
-![Alt text](/src/fossl2.jpg?raw=true "Optional Title")
-![Alt text](/src/fossl3.jpg?raw=true "Optional Title")
-![Alt text](/src/fossl4.jpg?raw=true "Optional Title")
+![Alt text](/src/fossl1.jpg?raw=true "Optional Title" =250x250)
+![Alt text](/src/fossl2.jpg?raw=true "Optional Title" =250x250)
+![Alt text](/src/fossl3.jpg?raw=true "Optional Title" =250x250)
+![Alt text](/src/fossl4.jpg?raw=true "Optional Title" =250x250)
