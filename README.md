@@ -1,7 +1,7 @@
 # iOS-Android-App-Development
 This is repo devoted for learning Native App Development using ReactNative
 # There is FoSSL News App created with react native and helped by NewsAPI.org
-### I created it to learn react native.
+### I created this to learn react native.
 ### It has two version FoSSL -v US and FoSSL -v IND
 # Dependencies
 ## react-native-vector-icons
@@ -9,7 +9,7 @@ This is repo devoted for learning Native App Development using ReactNative
 ## moment.js
 ## react-native-gesture-handler
 ## react-native-navigation 3
-## react-native-splash-screen3
+## react-native-splash-screen@3
 # NEWSAPI.org
 ### 1
 <img src="/src/fossl1.jpg" alt="drawing" width="250"/>
