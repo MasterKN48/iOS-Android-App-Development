@@ -11,10 +11,11 @@ This is repo devoted for learning Native App Development using ReactNative
 ## react-native-navigation 3
 ## react-native-splash-screen3
 # NEWSAPI.org
-<img src="/src/fossl1.jpg" alt="drawing" width="200"/>
-#
-<img src="/src/fossl2.jpg" alt="drawing" width="200"/>
-#
-<img src="/src/fossl3.jpg" alt="drawing" width="200"/>
-#
-<img src="/src/fossl4.jpg" alt="drawing" width="200"/>
+# _
+<img src="/src/fossl1.jpg" alt="drawing" width="250"/>
+# _
+<img src="/src/fossl2.jpg" alt="drawing" width="250"/>
+# _
+<img src="/src/fossl3.jpg" alt="drawing" width="250"/>
+# _
+<img src="/src/fossl4.jpg" alt="drawing" width="250"/>
