@@ -11,14 +11,6 @@ This is repo devoted for learning Native App Development using ReactNative
 #### react-natiavigation 3
 #### react-native-splash-screen@3
 #### NEWSAPI.org
-### 1
-<img src="/src/fossl1.jpg" alt="drawing" width="150"/>
-### 2
-<img src="/src/fossl2.jpg" alt="drawing" width="150"/>
-### 3
-<img src="/src/fossl3.jpg" alt="drawing" width="150"/>
-### 4
-<img src="/src/fossl4.jpg" alt="drawing" width="150"/>
 #### ------
 ## FoSSL Chat App
 This is a basic chat app.It use to chat between users who have register themself to app.
@@ -30,9 +22,17 @@ After that they can chat with any register user.
 #### react-natiavigation 3
 #### firebase sdk
 #### react-native-image-picker
-#### 1
+#### Screenshot of FoSSL Chat 1
 <img src="/src/foss21.jpg" alt="drawing" width="150"/>
 #### 2
 <img src="/src/foss22.jpg" alt="drawing" width="150"/>
 #### 3
 <img src="/src/foss23.jpg" alt="drawing" width="150"/>
+### Screenshot of FoSSL News 1
+<img src="/src/fossl1.jpg" alt="drawing" width="150"/>
+### 2
+<img src="/src/fossl2.jpg" alt="drawing" width="150"/>
+### 3
+<img src="/src/fossl3.jpg" alt="drawing" width="150"/>
+### 4
+<img src="/src/fossl4.jpg" alt="drawing" width="150"/>
