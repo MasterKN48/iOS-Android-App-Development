@@ -10,7 +10,7 @@ This is repo devoted for learning Native App Development using ReactNative
 ## react-native-gesture-handler
 ## react-native-navigation 3
 ## react-native-splash-screen@3
-# NEWSAPI.org
+## NEWSAPI.org
 ### 1
 <img src="/src/fossl1.jpg" alt="drawing" width="250"/>
 ## 2
